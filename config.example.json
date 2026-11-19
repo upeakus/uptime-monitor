@@ -1,0 +1,9 @@
+{
+  "interval": 60,
+  "timeout": 10,
+  "targets": [
+    { "name": "My website", "url": "https://example.com" },
+    { "name": "API health", "url": "https://example.com/health" },
+    { "name": "SSH server", "type": "tcp", "host": "example.com", "port": 22 }
+  ]
+}
