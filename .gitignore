@@ -1,0 +1,4 @@
+config.json
+monitor.db
+__pycache__/
+.env
